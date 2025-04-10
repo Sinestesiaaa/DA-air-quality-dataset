@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Sharing Data Analysis & Dashboard
+# 🍃 Air Quality Data Analysis & Dashboard
 
 ## 📌 Deskripsi Proyek
 
